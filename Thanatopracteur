@@ -1,0 +1,40 @@
+<html>
+
+<head>
+	<!--titre de la page-->
+	<title>Thanatopracteur</title>
+	<link rel="stylesheet" href="Thanatopracteur.css">
+
+</head>
+
+<body>
+
+	<p><h1>Thanatopracteur</h1></p>
+
+	<p><h3>Bienvenue sur notre page web!</h3></p>
+	<p>Ici, vous allez tout apprendre sur le métier de thanatopracteur !</p>
+
+
+	<ol>
+	<li>Salaire</li>
+	<li>Diplômes et Etudes</li>
+	<li>Conditions de travail</li>
+	</ol>
+
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+
+</body>
+
+
+
+</html>
